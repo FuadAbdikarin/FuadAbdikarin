@@ -1,45 +1,33 @@
-👋 Hi, I’m Fuad Abdikarin
+<h1 style="font-size:20px;"><b>👋 Hi, I’m Fuad Abdikarin</b></h1>
 
-💻 Software Developer | 🤖 AI & Machine Learning Enthusiast | 🌍 Smart Systems Builder
+**💻 Software Developer | 🤖 AI & Machine Learning Enthusiast | 🌍 Smart Systems Builder**
 
-I build real-world software and intelligent systems that solve practical problems using Web, Mobile, Databases, and Artificial Intelligence.
-My focus is on creating clean, scalable, and impactful solutions for business, research, and social good.
+I build practical software systems and intelligent applications that solve real-world problems using web, mobile, database, and artificial intelligence technologies. My work focuses on creating reliable, scalable, and efficient digital solutions.
 
-🚀 What I Work With
+---
+## 🚀 What I Work With:
 
-Languages & Tools
+### Skills & Technologies
 
-PHP, Java, Dart, Python
+#### Programming & Development
 
-Flutter, MySQL, Firebase
-
-HTML, CSS, JavaScript
-
-Git & GitHub
-
-AI & Data
-
-Machine Learning
-
-Deep Learning
-
-NLP (Text & OCR)
-
-Data Analysis & Automation
-
-🧠 Current Interests
-
-AI-powered business systems
-
-Smart environmental monitoring
-
-Mobile & web applications
-
-Data-driven decision systems
+- PHP, Java, Dart, Python  
+- Flutter, HTML, CSS, JavaScript  
+- MySQL, Firebase  
+- Git & GitHub  
 
 
-📫 Connect with Me
+#### Artificial Intelligence & Data
 
-GitHub: @FuadAbdikarin
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Data Analysis & Automation
+
+---
+
+## 📫 Connect with Me
+
+**GitHub:** @FuadAbdikarin
 
 Always learning, building, and improving 🚀
