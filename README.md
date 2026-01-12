@@ -1,16 +1,45 @@
-## Hi there 👋
+👋 Hi, I’m Fuad Abdikarin
 
-<!--
-**FuadAbdikarin/FuadAbdikarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | 🤖 AI & Machine Learning Enthusiast | 🌍 Smart Systems Builder
 
-Here are some ideas to get you started:
+I build real-world software and intelligent systems that solve practical problems using Web, Mobile, Databases, and Artificial Intelligence.
+My focus is on creating clean, scalable, and impactful solutions for business, research, and social good.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I Work With
+
+Languages & Tools
+
+PHP, Java, Dart, Python
+
+Flutter, MySQL, Firebase
+
+HTML, CSS, JavaScript
+
+Git & GitHub
+
+AI & Data
+
+Machine Learning
+
+Deep Learning
+
+NLP (Text & OCR)
+
+Data Analysis & Automation
+
+🧠 Current Interests
+
+AI-powered business systems
+
+Smart environmental monitoring
+
+Mobile & web applications
+
+Data-driven decision systems
+
+
+📫 Connect with Me
+
+GitHub: @FuadAbdikarin
+
+Always learning, building, and improving 🚀
